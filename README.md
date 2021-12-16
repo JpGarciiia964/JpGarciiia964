@@ -1,15 +1,11 @@
-### Hi there 👋
-
-<!--
-**JpGarciiia964/JpGarciiia964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hey, I'm Juan</h1>
+<h3 align="center">A Senior Python developer from Rep. Dom.</h3>
 
 - 🔭 I’m currently working on: Asociacion Popular de Ahorros y Prestamos (APAP)
 - 🌱 I’m currently learning: Ract, TypeScript and Ionic
 - 💬 Ask me about: Pyhton, NodeJs, .NET
 - 📫 How to reach me: jpgarciiia964@gmail.com and jpgarcia964@gmail.com
--->
+
 Tech stack:
 
 -  &nbsp;
