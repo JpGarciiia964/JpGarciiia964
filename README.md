@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 Tech stack:
 
 -  &nbsp;
-  ![HTML5](https://img.shields.io/badge/-Pyhton-FFFFFF?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Pyhton-FFFFFF?style=flat&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+  ![php](https://img.shields.io/badge/-php-FFFFFF?style=flat&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
 
