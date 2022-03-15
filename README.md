@@ -25,5 +25,5 @@ Tech stack:
   
   <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JpGarciiia964&show_icons=true&locale=en&theme=radical" alt="JpGarciiia964" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JpGarciiia964&show_icons=true&locale=en&theme=radical" alt="JpGarciiia964" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JpGarciiia964&show_icons=true&locale=en&theme=radical" alt="JpGarciiia964"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JpGarciiia964&show_icons=true&locale=en&theme=radical" alt="JpGarciiia964"/></p>
