@@ -9,7 +9,7 @@
 Tech stack:
 
 -  &nbsp;
-  ![Python](https://img.shields.io/badge/-Pyhton-FFFFFF?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
   ![php](https://img.shields.io/badge/-php-FFFFFF?style=flat&logo=php)
