@@ -13,6 +13,7 @@ Tech stack:
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
   ![php](https://img.shields.io/badge/-php-FFFFFF?style=flat&logo=php)
+  ![Flutter](https://img.shields.io/badge/-Flutter-0000FF?style=flat&logo=flutter)
   ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
   ![VS-Code](https://camo.githubusercontent.com/0832ab8a029274e4cdda561332da74375ab23a95d6eb97aac16269e042694ca9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56535f436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303037414343)
