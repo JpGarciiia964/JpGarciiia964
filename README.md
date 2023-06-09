@@ -2,7 +2,7 @@
 <h3 align="center">A Senior Python developer from Rep. Dom.</h3>
 
 - 🔭 I’m currently working on: Asociacion Popular de Ahorros y Prestamos (APAP)
-- 🌱 I’m currently learning: ![Go](https://img.shields.io/badge/-Go-FFFFFF?style=flat&logo=go)
+- 🌱 I’m currently learning: Go
 - 💬 Ask me about: Pyhton, NodeJs, .NET, odoo, Flutter and T24
 - 📫 How to reach me: jpgarciiia964@gmail.com and jpgarcia964@gmail.com
 
