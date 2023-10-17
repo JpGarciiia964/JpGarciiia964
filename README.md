@@ -1,12 +1,16 @@
-<h1 align="center">Hey, I'm Juan</h1>
-<h3 align="center">A Senior Python developer from Rep. Dom.</h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/" />
+   <h3 align="center">¡Hey 👋! Soy Juan Garcia 👨🏻‍💻</h3>
+   <h3 align="center">Soy Senior Python developer from Rep. Dom.</h3>
+</p>
 
-- 🔭 I’m currently working on: Asociacion Popular de Ahorros y Prestamos (APAP)
-- 🌱 I’m currently learning: Go
-- 💬 Ask me about: Pyhton, NodeJs, .NET, odoo, Flutter and T24
-- 📫 How to reach me: jpgarciiia964@gmail.com and jpgarcia964@gmail.com
+- 💻​ Soy desarrollador en: Asociacion Popular de Ahorros y Prestamos (APAP)
+- 👨🏻‍💻 CEO en: Root System Technology (RST)
+- 🏆 Estoy interesado en aprender: Go
+- 💬 Puedes preguntarme por: Pyhton, NodeJs, .NET, odoo, Flutter and T24
+- 📫 Email's: jpgarciiia964@gmail.com and jpgarcia964@gmail.com
 
-Tech stack:
+#### ⚙️​ Tech stack: ⚙️​
 
 -  &nbsp;
   ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
