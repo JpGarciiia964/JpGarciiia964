@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/" />
+   <img align="center" width="200" src="https://github.com/JpGarciiia964/JpGarciiia964/blob/master/WhatsApp%20Image%202023-10-16%20at%2019.07.58_bc24c20a.jpg" />
    <h3 align="center">¡Hey 👋! Soy Juan Garcia 👨🏻‍💻</h3>
    <h3 align="center">Soy Senior Python developer from Rep. Dom.</h3>
 </p>
