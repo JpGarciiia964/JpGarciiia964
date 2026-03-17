@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-circle.png" width="170" alt="Juan Garcia" />
+  <img src="https://github.com/JpGarciiia964/JpGarciiia964/blob/master/WhatsApp%20Image%202023-10-16%20at%2019.07.58_bc24c20a.jpg" width="170" alt="Juan Garcia" />
 
   <h1>Juan Garcia</h1>
   <h3>Senior Python Developer · Fraud Prevention · Banking Tech</h3>
