@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#C8102E" stop-opacity="0"/><stop offset=".5" stop-color="#C8102E"/><stop offset="1" stop-color="#C8102E" stop-opacity="0"/></linearGradient>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#FFD9DD"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <style>.glint{animation:run 3.5s linear infinite}@keyframes run{from{transform:translateX(-200px)}to{transform:translateX(1200px)}}</style>
+  </defs>
+  <rect x="0" y="6" width="1200" height="2" fill="url(#l)"/>
+  <rect class="glint" x="0" y="5" width="200" height="4" rx="2" fill="url(#g)"/>
+  <circle cx="600" cy="7" r="4" fill="#C8102E"/>
+</svg>
