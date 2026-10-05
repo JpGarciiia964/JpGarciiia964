@@ -202,9 +202,6 @@ class JuanGarcia:
 |:-:|:-:|:-:|:-:|:-:|
 | Entender el negocio antes que el código | Arquitectura limpia, segura y escalable | Iteraciones cortas, código probado | QA, normativa (DGII, TSS) y seguridad | Implementación, capacitación y soporte |
 
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGarciiia964&layout=compact&langs_count=6&locale=es&hide_border=true&bg_color=1E1E1E&title_color=C8102E&text_color=E6E6E6&custom_title=Lenguajes%20en%20repos%20p%C3%BAblicos" alt="Lenguajes"/>
 
 </div>
 
