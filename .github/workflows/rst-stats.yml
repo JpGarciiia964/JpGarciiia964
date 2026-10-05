@@ -1,4 +1,4 @@
-name: Tarjeta de estadísticas RST
+name: Tarjetas RST (estadísticas y calendario 3D)
 
 on:
   schedule:
@@ -26,13 +26,15 @@ jobs:
         if: env.HAS_TOKEN == 'true'
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: python scripts/rst_stats.py assets/rst-stats.svg
+        run: |
+          python scripts/rst_stats.py assets/rst-stats.svg
+          python scripts/rst_isocalendar.py assets/rst-isocalendar.svg
 
       - name: Guardar si cambió
         if: env.HAS_TOKEN == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/rst-stats.svg
-          git diff --cached --quiet || git commit -m "chore: actualizar tarjeta de estadísticas RST [skip ci]"
+          git add assets/rst-stats.svg assets/rst-isocalendar.svg
+          git diff --cached --quiet || git commit -m "chore: actualizar tarjetas RST [skip ci]"
           git push

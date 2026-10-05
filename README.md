@@ -214,6 +214,10 @@ class JuanGarcia:
 
 <div align="center">
 
+<img src="assets/rst-isocalendar.svg" alt="Calendario de contribuciones en 3D con la paleta RST" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JpGarciiia964/JpGarciiia964/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JpGarciiia964/JpGarciiia964/output/snake-light.svg"/>
