@@ -188,21 +188,7 @@ class JuanGarcia:
 
 <div align="center">
 
-**Lenguajes y frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,go,nodejs,js,ts,php,dotnet,cs,flutter,dart,nextjs,react,fastapi&perline=13" alt="Lenguajes"/>
-
-**Datos, IA e infraestructura**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,tensorflow,grafana,docker,linux,nginx,git,github&perline=13" alt="Datos e infraestructura"/>
-
-<img src="https://img.shields.io/badge/Odoo-C8102E?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-3C3C3C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-C8102E?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Temenos_T24-3C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-C8102E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude_·_OpenAI_·_Gemini-3C3C3C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/DGII_e--CF-C8102E?style=for-the-badge"/>
+<img src="assets/tech-stack.svg" alt="Tech stack: Python, Go, JavaScript, TypeScript, PHP, C#, .NET, Dart, Odoo, FastAPI, Next.js, React, Node.js, Flutter, PostgreSQL, SQL Server, Redis, Power BI, Grafana, Temenos T24, Claude, OpenAI, Gemini, TensorFlow, Docker, Linux, nginx, Git" width="100%"/>
 
 </div>
 
@@ -219,6 +205,22 @@ class JuanGarcia:
 <br/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGarciiia964&layout=compact&langs_count=6&locale=es&hide_border=true&bg_color=1E1E1E&title_color=C8102E&text_color=E6E6E6&custom_title=Lenguajes%20en%20repos%20p%C3%BAblicos" alt="Lenguajes"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 🐍 Actividad en GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JpGarciiia964/JpGarciiia964/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JpGarciiia964/JpGarciiia964/output/snake-light.svg"/>
+  <img alt="Serpiente RST recorriendo el calendario de contribuciones" src="https://raw.githubusercontent.com/JpGarciiia964/JpGarciiia964/output/snake-dark.svg" width="100%"/>
+</picture>
+
+<sub>🐍 La serpiente se come los commits mientras el lobo vigila 🐺 · Se actualiza sola cada día con una GitHub Action.</sub>
 
 </div>
 
