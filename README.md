@@ -177,7 +177,6 @@ class JuanGarcia:
 </div>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2A2A2A','primaryTextColor':'#FFFFFF','primaryBorderColor':'#C8102E','lineColor':'#C8102E'}}}%%
 flowchart LR
     A[💳 Transacción] --> B[⚙️ Motor de reglas]
     A --> C[🧠 Modelo ML]
@@ -188,10 +187,6 @@ flowchart LR
     D -- Alto --> G[⛔ Bloqueada]
     F --> H[📈 Grafana / Power BI]
     G --> H
-    classDef bad fill:#C8102E,stroke:#8B0A14,color:#fff
-    classDef ok fill:#1F6F43,stroke:#14532D,color:#fff
-    class G bad
-    class E ok
 ```
 
 <img src="assets/divider.svg" width="100%"/>
