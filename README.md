@@ -13,7 +13,7 @@
 </td>
 <td width="58%" valign="middle">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C8102E&vCenter=true&width=460&lines=CEO+%40+Root+System+Technology+%F0%9F%90%BA;Senior+Python+Developer+%F0%9F%90%8D;Fraud+Prevention+%7C+Banking+Tech+%F0%9F%9B%A1%EF%B8%8F;Odoo+%C2%B7+Fintech+%C2%B7+IA+aplicada+%F0%9F%A7%A0;Currently+learning+Go+%F0%9F%A6%AB" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=C8102E&vCenter=true&width=520&lines=CEO+%40+Root+System+Technology+%F0%9F%90%BA;Senior+Python+Developer+%F0%9F%90%8D;Antifraude+%C2%B7+Banking+Tech+%F0%9F%9B%A1%EF%B8%8F;Odoo+%C2%B7+Fintech+%C2%B7+IA+%F0%9F%A7%A0;Aprendiendo+Go+%F0%9F%A6%AB" alt="Typing SVG"/></a>
 
 ### Hola, soy Juan 👋
 
@@ -21,9 +21,7 @@ Apasionado por la **tecnología y los negocios**, enfocado en construir solucion
 
 Combino la experiencia en **banca y prevención de fraude** con la visión de **emprendedor**: diseño backends robustos, motores antifraude y plataformas empresariales sobre **Python y Odoo** que generan impacto real en el negocio.
 
-<img src="https://img.shields.io/badge/📍_Santo_Domingo,_RD-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐺_CEO_@_RST-C8102E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏦_Developer_@_APAP-3C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Santo_Domingo-1E1E1E?style=flat-square"/> <img src="https://img.shields.io/badge/🐺_CEO_@_RST-C8102E?style=flat-square"/> <img src="https://img.shields.io/badge/🏦_Developer_@_APAP-3C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/🦫_Learning_Go-1E1E1E?style=flat-square"/>
 
 > **Un equipo, un mismo objetivo: tu crecimiento.**
 
@@ -35,7 +33,6 @@ Combino la experiencia en **banca y prevención de fraude** con la visión de **
 
 <a href="https://www.rootsystemtechnology.com"><img src="https://img.shields.io/badge/rootsystemtechnology.com-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:jpgarciiia964@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-3C3C3C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=JpGarciiia964&label=Visitas&color=C8102E&style=for-the-badge"/>
 
 </div>
 
@@ -164,19 +161,6 @@ class JuanGarcia:
 </tr>
 </table>
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#2A2A2A','primaryTextColor':'#FFFFFF','primaryBorderColor':'#C8102E','lineColor':'#C8102E','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
-flowchart LR
-    N((🐺 RST)) --> F[💰 Finanzas]
-    N --> R[🇩🇴 Cumplimiento RD]
-    N --> I[🧠 IA y Seguridad]
-    N --> IN[🏭 Industria]
-    N --> P[🚀 Plataforma]
-    N --> E[🎨 Experiencia]
-    F & R & I & IN & P & E --> C([📈 Tu crecimiento])
-    classDef wolf fill:#C8102E,stroke:#8B0A14,color:#fff
-    class N,C wolf
-```
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -191,10 +175,6 @@ flowchart LR
 | Device fingerprinting | Análisis sobre **SQL Server** y **Python** | Dashboards en **Power BI** y **Grafana** |
 
 </div>
-
-<details>
-<summary><b>🧩 Ver el flujo típico de un motor antifraude</b></summary>
-<br/>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#2A2A2A','primaryTextColor':'#FFFFFF','primaryBorderColor':'#C8102E','lineColor':'#C8102E'}}}%%
@@ -213,8 +193,6 @@ flowchart LR
     class G bad
     class E ok
 ```
-
-</details>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -242,16 +220,17 @@ flowchart LR
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 📊 GitHub stats
+## 🧭 Cómo trabajo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JpGarciiia964&show_icons=true&locale=es&hide_border=true&bg_color=1E1E1E&title_color=C8102E&icon_color=C8102E&text_color=E6E6E6&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGarciiia964&layout=compact&langs_count=8&locale=es&hide_border=true&bg_color=1E1E1E&title_color=C8102E&text_color=E6E6E6" alt="Top Languages"/>
+| 🔎 **1 · Descubrir** | 📐 **2 · Diseñar** | 🛠️ **3 · Construir** | ✅ **4 · Certificar** | 🤝 **5 · Acompañar** |
+|:-:|:-:|:-:|:-:|:-:|
+| Entender el negocio antes que el código | Arquitectura limpia, segura y escalable | Iteraciones cortas, código probado | QA, normativa (DGII, TSS) y seguridad | Implementación, capacitación y soporte |
 
-<img src="https://streak-stats.demolab.com?user=JpGarciiia964&locale=es&hide_border=true&background=1E1E1E&ring=C8102E&fire=C8102E&currStreakLabel=C8102E&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A&stroke=3C3C3C" alt="Racha"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JpGarciiia964&hide_border=true&area=true&bg_color=1E1E1E&color=E6E6E6&line=C8102E&point=FFFFFF&area_color=C8102E&title_color=C8102E" width="100%" alt="Actividad"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGarciiia964&layout=compact&langs_count=6&locale=es&hide_border=true&bg_color=1E1E1E&title_color=C8102E&text_color=E6E6E6&custom_title=Lenguajes%20en%20repos%20p%C3%BAblicos" alt="Lenguajes"/>
 
 </div>
 
