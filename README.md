@@ -42,9 +42,9 @@ Combino la experiencia en **banca y prevención de fraude** con la visión de **
 
 <div align="center">
 
-| 🧩 **46+** | 💻 **190.000+** | 🗂️ **6** | 🇩🇴 **e-CF · TSS · ISR** |
-|:-:|:-:|:-:|:-:|
-| módulos Odoo propios | líneas de código propio | líneas de producto | normativa dominicana integrada |
+<img src="assets/rst-stats.svg" alt="Estadísticas agregadas de todos los repos de Root System Technology" width="100%"/>
+
+<sub>Totales reales de mis repos públicos y privados, actualizados cada día por una GitHub Action. Sin exponer nombres ni código.</sub>
 
 </div>
 

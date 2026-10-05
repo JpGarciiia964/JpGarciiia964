@@ -1,0 +1,38 @@
+name: Tarjeta de estadísticas RST
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # diario, 2:15 a. m. de Santo Domingo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HAS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
+    steps:
+      - name: Aviso si falta el token
+        if: env.HAS_TOKEN != 'true'
+        run: echo "::notice::Falta el secret METRICS_TOKEN; la tarjeta no se actualiza."
+
+      - uses: actions/checkout@v4
+        if: env.HAS_TOKEN == 'true'
+
+      - name: Generar tarjeta (solo totales agregados)
+        if: env.HAS_TOKEN == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python scripts/rst_stats.py assets/rst-stats.svg
+
+      - name: Guardar si cambió
+        if: env.HAS_TOKEN == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/rst-stats.svg
+          git diff --cached --quiet || git commit -m "chore: actualizar tarjeta de estadísticas RST [skip ci]"
+          git push
