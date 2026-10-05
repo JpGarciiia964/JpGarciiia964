@@ -176,18 +176,11 @@ class JuanGarcia:
 
 </div>
 
-```mermaid
-flowchart LR
-    A[💳 Transacción] --> B[⚙️ Motor de reglas]
-    A --> C[🧠 Modelo ML]
-    B --> D{📊 Score de riesgo}
-    C --> D
-    D -- Bajo --> E[✅ Aprobada]
-    D -- Medio --> F[🔔 Alerta / revisión]
-    D -- Alto --> G[⛔ Bloqueada]
-    F --> H[📈 Grafana / Power BI]
-    G --> H
-```
+<div align="center">
+
+<img src="assets/flujo-antifraude.png" alt="Flujo de un motor antifraude: transacción, reglas y modelo ML, score de riesgo, decisión y monitoreo" width="100%"/>
+
+</div>
 
 <img src="assets/divider.svg" width="100%"/>
 
