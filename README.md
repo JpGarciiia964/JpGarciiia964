@@ -44,7 +44,7 @@ Combino la experiencia en **banca y prevención de fraude** con la visión de **
 
 <img src="assets/rst-stats.svg" alt="Estadísticas agregadas de todos los repos de Root System Technology" width="100%"/>
 
-<sub>Totales reales de mis repos públicos y privados, actualizados cada día por una GitHub Action. Sin exponer nombres ni código.</sub>
+<sub>Totales reales de mis repos públicos y privados, actualizados cada día por una GitHub Action.</sub>
 
 </div>
 
@@ -94,7 +94,7 @@ class JuanGarcia:
 
 <div align="center">
 
-*Productos sobre **Odoo 16** y tecnología propia, diseñados en República Dominicana para empresas que quieren crecer.*
+*Productos sobre **Odoo** y tecnología propia, diseñados en República Dominicana para empresas que quieren crecer.*
 
 </div>
 
